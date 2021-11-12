@@ -8,6 +8,7 @@ public class ContactsTest {
 	public void create()
 	{
 		System.out.println("hi test 1");
+		System.out.println("hi");
 	}
 
 }
