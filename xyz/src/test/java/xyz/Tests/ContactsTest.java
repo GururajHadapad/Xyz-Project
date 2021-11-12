@@ -12,6 +12,7 @@ public class ContactsTest {
 		System.out.println("hello");
 		
 		System.out.println("bye");
+		System.out.println("hi");
 	}
 
 }
