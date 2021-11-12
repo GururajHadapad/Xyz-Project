@@ -10,6 +10,8 @@ public class ContactsTest {
 		System.out.println("hi test 1");
 		System.out.println("hi");
 		System.out.println("hello");
+		
+		System.out.println("bye");
 	}
 
 }
